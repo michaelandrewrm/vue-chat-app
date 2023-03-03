@@ -1,0 +1,10 @@
+{
+	"ACTION.ACCEPT": "Aceptar",
+	"ACTION.CANCEL": "Cancelar",
+	"ACTION.ENTER": "Entrar",
+	"ACTION.DELETE": "Borrar",
+	"ERROR.USER_NO_AVAILABLE": "Usuario no disponible",
+	"ERROR.USER_REQUIRED": "Usuario obligatorio",
+	"DASHBOARD.CURRENT_USER": "{user} (tú)",
+	"DASHBOARD.CHAT.PLACEHOLDER": "Enviar un mensaje a {user}"
+}
